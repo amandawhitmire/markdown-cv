@@ -1,14 +1,17 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Amanda Whitmire's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Amanda L. Whitmire, Ph.D.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="thalassa@stanford.edu">thalassa@stanford.edu</a>
+| <a href="https://orcid.org/0000-0003-2429-8879">ORCID iD: 0000-0003-2429-8879</a>
 </div>
+Harold A. Miller Library
+Hopkins Marine Station of Stanford University
+120 Oceanview Boulevard, Pacific Grove, CA 93950
+831.655.6228
 
 
 ## Currently
@@ -27,19 +30,13 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`July 2008`
+__Ph.D., Oceanography, College of Earth, Ocean and Atmospheric Sciences__
+- Oregon State University, Corvallis, Oregon | [“The spectral backscattering properties of marine particles”](http://hdl.handle.net/1957/9088)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`December 2000`
+__B.S. with honors, Aquatic Biology, Department of Ecology, Evolution, and Marine Biology, College of Letters and Science__
+- University of California at Santa Barbara, Santa Barbara, California
 
 
 ## Awards
